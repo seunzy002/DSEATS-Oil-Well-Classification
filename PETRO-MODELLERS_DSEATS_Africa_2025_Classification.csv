@@ -1,0 +1,21 @@
+Well,Reservoir Name,Reservoir Type,Well Type,Production Type,Formation GOR Trend,Watercut Trend,Oil Productivity Index Trend
+1,JANI,Undersat,GL,Unsteady,aSolGOR,Incr,Decr
+2,KEMA,Undersat,NF,Steady,Combo,Combo,Combo
+3,MAKO,Saturated,GL,Unsteady,aSolGOR,Combo,Decr
+4,DEPU,Saturated,GL,Steady,aSolGOR,Combo,Combo
+5,MAKO,Saturated,NF,Unsteady,aSolGOR,Incr,Decr
+6,KEMA,Undersat,NF,Unsteady,aSolGOR,Flat,Flat
+7,KEMA,Undersat,GL,Unsteady,aSolGOR,Incr,Decr
+8,ACHI,Undersat,GL,Unsteady,aSolGOR,Combo,Combo
+9,DEPU,Saturated,GL,Unsteady,bSolGOR,Incr,Combo
+10,JANI,Undersat,GL,Steady,aSolGOR,Combo,Combo
+11,DEPU,Saturated,GL,Unsteady,bSolGOR,Incr,Combo
+12,ACHI,Undersat,NF,Unsteady,bSolGOR,Incr,Decr
+13,DEPU,Saturated,NF,Steady,aSolGOR,Flat,Combo
+14,MAKO,Saturated,NF,Steady,bSolGOR,Combo,Decr
+15,KEMA,Undersat,NF,Steady,aSolGOR,Combo,Combo
+16,KEMA,Undersat,NF,Steady,aSolGOR,Flat,Combo
+17,DEPU,Saturated,GL,Steady,bSolGOR,Combo,Combo
+18,ACHI,Undersat,NF,Unsteady,aSolGOR,Incr,Combo
+19,KEMA,Undersat,NF,Unsteady,aSolGOR,Incr,Combo
+20,MAKO,Saturated,GL,Steady,Combo,Incr,Decr
